@@ -1,0 +1,55 @@
+# ——————————————
+# Node & dependencies
+# ——————————————
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# ——————————————
+# Build output
+# ——————————————
+dist/
+build/
+
+# ——————————————
+# Environment variables
+# ——————————————
+.env
+.env.local
+.env.*.local
+
+# ——————————————
+# System files
+# ——————————————
+.DS_Store
+Thumbs.db
+
+# ——————————————
+# Editors
+# ——————————————
+.vscode/
+.idea/
+
+# ——————————————
+# Logs
+# ——————————————
+*.log
+logs/
+*.log.*
+yarn-error.log
+npm-debug.log
+pnpm-debug.log
+
+# ——————————————
+# Optional: coverage & tests
+# ——————————————
+coverage/
+*.lcov
+
+# ——————————————
+# Optional: TypeScript
+# ——————————————
+*.tsbuildinfo
