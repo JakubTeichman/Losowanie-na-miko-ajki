@@ -2,7 +2,7 @@
   "name": "secret-santa-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://twoj-login.github.io/secret-santa-app/",
+  "homepage": "https://https://jakubteichman.github.io/Losowanie-na-miko-ajki/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
