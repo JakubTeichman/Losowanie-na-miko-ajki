@@ -1,12 +1,11 @@
 {
   "name": "secret-santa-app",
   "version": "1.0.0",
-  "private": true,
-  "homepage": "https://https://jakubteichman.github.io/Losowanie-na-miko-ajki/",
+  "private": false,
+  "homepage": "https://jakubteichman.github.io/Losowanie-na-miko-ajki/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
